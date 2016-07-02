@@ -1,0 +1,62 @@
+/*
+Theme Name: Divi Child Theme
+Description: A child theme to house custom coding which modifies the Divi parent theme by Elegant Themes. Includes default line numbers where the code was taken from in the parent theme.
+Author:   Ruel Nopal FreelancerDad.com
+Template: Divi
+*/
+
+@import url("../Divi/style.css");
+
+
+/* Style Footer Credits - Lines 948 & 949 */
+
+#footer-info { 
+text-align: left; 
+
+padding-bottom: 10px; 
+float: left; 
+}
+
+.payment-methord {
+    width: 200px;
+    float: right;
+}
+
+#footer-info a { 
+font-weight: 700; 
+
+}
+
+#footer-info a:hover { 
+
+}
+
+
+/* Style Footer Social Icons - Lines 1185 to 1198 */
+
+#footer-bottom .et-social-facebook a {
+
+}
+#footer-bottom .et-social-twitter a {
+
+}
+#footer-bottom .et-social-google-plus a {
+
+}
+#footer-bottom .et-social-rss a {
+
+}
+
+/* Hover Colors*/
+#footer-bottom .et-social-facebook a:hover {
+
+}
+#footer-bottom .et-social-twitter a:hover {
+
+}
+#footer-bottom .et-social-google-plus a:hover {
+
+}
+#footer-bottom .et-social-rss a:hover {
+
+}
