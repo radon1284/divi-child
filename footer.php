@@ -38,7 +38,7 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 					}
 				?>
 
-						<p id="footer-info"><?php printf( __( '© 2016 copywrite %1s', 'Divi' ) ); ?> </p>
+						<p id="footer-info"><?php printf( __( '© 2016 copywrite', 'Divi' ) ); ?> </p>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
