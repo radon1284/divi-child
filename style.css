@@ -1,11 +1,17 @@
 /*
-Theme Name: Divi Child Theme
-Description: A child theme to house custom coding which modifies the Divi parent theme by Elegant Themes. Includes default line numbers where the code was taken from in the parent theme.
-Author:   Ruel Nopal FreelancerDad.com
-Template: Divi
+
+
+Theme Name:		 Divi Child Theme
+Theme URI:		 www.rakethost.ph
+Description:	 Description: A child theme to house custom coding which modifies the Divi parent theme by Elegant Themes. Includes default line numbers where the code was taken from in the parent theme.
+Author:			 RaketHost
+Author URI:		 https://www.rakethost.ph/
+Template:		 Divi
+Version:		 1.0.0
+Text Domain:	 divi-child
 */
 
-@import url("../Divi/style.css");
+
 
 
 /* Style Footer Credits - Lines 948 & 949 */
