@@ -38,7 +38,7 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 					}
 				?>
 
-						<p id="footer-info"><?php printf( __( '© copyright', 'Divi' ) ); echo date('Y');  ?> </p>
+						<p id="footer-info"><?php printf( __( 'Copyright © ', 'Divi' ) ); _e(date("Y")); _e(" ");  _e(bloginfo("name")); _e(". "); _e("All rights reserved."); ?> </p>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
